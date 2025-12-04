@@ -1,4 +1,4 @@
-Question 1: Did not drop the other spending columns, Does not explicitly set up a KFold object39 / 45
-Question 2: Does not explicitly state which model is overall better based on the plot22 / 24
-Question 3: Column Transformer only applies one-hot encoding and does not scale numeric features, No written interpretation of precision, recall, F1, … 13 / 24
-Total: 81 / 100
+Question 1: Did not drop the other spending columns -5
+Question 2: Does not explicitly state which model is overall better based on the plot -2
+Question 3: Column Transformer only applies one-hot encoding and does not scale numeric features, No written interpretation of precision, recall, F1, -10
+Total:  87/ 100
